@@ -1,3 +1,9 @@
+  /*
+      Author : Shivam Saurav
+      Date : 26 September 2021 
+  */
+
+/* Base Style */
 * {
     box-sizing: border-box;
   }
@@ -28,7 +34,7 @@
     font-weight: bold;
   }
   
-  .heading {
+  .small-box {
     overflow: hidden;
     padding: 0;
     margin: 0;
@@ -195,7 +201,7 @@
       width: 100%;
     }
   }
-  .box-wrapper {
+  .big-box {
     background: rgb(201, 194, 194);
     border: 3px solid black;
     margin: 15px;
